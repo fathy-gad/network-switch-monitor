@@ -36,5 +36,8 @@ Export results to CSV
 Send alerts (Email / Telegram)
 Build GUI dashboard
 
+*comm*
+python check_switches.py
+
 👨‍💻 Author
 Fathy Gad — IT Engineer
