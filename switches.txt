@@ -1,0 +1,5 @@
+Rack-Server(OUT),172.16.100.13
+Security-Room(OUT),172.16.100.12
+DataCenter-Servers-Switch,172.16.100.11
+AccessPoint-Switch,172.16.100.14
+Switch-1,172.16.100.1
